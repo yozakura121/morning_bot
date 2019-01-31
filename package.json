@@ -1,0 +1,23 @@
+{
+    "name": "morning_bot",
+    "version": "1.0.0",
+    "description": "morning_bot",
+    "main": "morning_bot.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yozakura121/morning_bot.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yozakura121/morning_bot/issues"
+    },
+    "homepage": "https://github.com/yozakura121/morning_bot#readme",
+    "dependencies": {
+        "discord.js": "^11.4.2",
+        "dotenv": "^6.2.0"
+    }
+}
