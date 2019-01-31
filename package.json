@@ -4,7 +4,9 @@
     "description": "morning_bot",
     "main": "morning_bot.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "my_echo": "echo abcdef f",
+        "w": "nodemon .\\morning_bot.js"
     },
     "repository": {
         "type": "git",
